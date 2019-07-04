@@ -1,4 +1,6 @@
 Prva poruka
 . Druga poruka.
 Treca poruka.
- Cetvrta poruka. Peta poruka.
+ Cetvrta poruka. 
+Peta poruka. 
+Sesta poruka.
