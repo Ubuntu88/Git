@@ -1,1 +1,2 @@
 Prva poruka
+. Druga poruka.
